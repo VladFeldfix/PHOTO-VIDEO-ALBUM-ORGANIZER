@@ -1,4 +1,3 @@
-VAR1 --> val 1
-VAR2 --> val 2
-VAR3 --> val 3
-VAR4 --> val 4
+NEW FILES LOCATION --> D:\Users\Vlad\Desktop\New folder
+PHOTO ALBUM --> D:\Users\Vlad\Pictures\Photo Albums\Feldfix
+VIDEO ALBUM --> D:\Users\Vlad\Videos\Video Album\Feldfix
